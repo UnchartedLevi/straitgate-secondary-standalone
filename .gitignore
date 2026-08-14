@@ -1,0 +1,15 @@
+node_modules/
+dist/
+
+*.log
+*.err.log
+
+browser-info.json
+page-assets-info.json
+page-assets-result.json
+reference-downloads.json
+reference-images.json
+standalone-debug.png
+
+public/assets/flaticon/*-source.png
+public/assets/flaticon/icon-contact-sheet.png
